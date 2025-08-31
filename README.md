@@ -1,0 +1,1 @@
+This notebook explains data troubleshooting techniques in Python with a focus on passing test variables and unit checks. You’ll learn practical ways to track down why a value isn’t what the tests expect, and how to make your code robust, reproducible, and grader-friendly.
